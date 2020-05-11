@@ -14,7 +14,7 @@ This project repurposes SOTA ResNet-152 Architecture trained on ImageNet and fin
 ## Dataset:
 The dataset is taken from kaggle - [FER(Facial Emotion Recognition) Challenge](https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge)
 
-## Model Performance: (I know this needs work so work in progress)
+## Model Performance:
 Accuracy</br>
 ![Neural Network Accuracy](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/resources/Accuracy.png)</br>
 Loss</br>
