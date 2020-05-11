@@ -3,15 +3,23 @@ Ever felt no one understands your emotions? Here's a Computer Vision project tha
 This project repurposes SOTA ResNet-152 Architecture trained on ImageNet and fine tuned on human emotion dataset to detect human emotions.
 
 ## Requirements/Libraries:
-* Python 3.6.9
-* Tensorflow 2.0
+* Python 3.8.2
+* Tensorflow 2.2
 * Keras 2.2.4
 * Numpy 1.15.4
 * Matplotlib 3.0.2
 * OpenCV 4.2.0
+* Pandas 1.0.3
 
 ## Dataset:
 The dataset is taken from kaggle - [FER(Facial Emotion Recognition) Challenge](https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge)
 
-## Challenge:
-###### The dataset is large and is taking a very long time to train the neural network
+## Model Performance: (I know this needs work so work in progress)
+Accuracy</br>
+![Neural Network Accuracy](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/resources/Accuracy.jpg)</br>
+Loss</br>
+![Neural Network Loss](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/resources/Loss.jpg)
+
+## File Architecture
+* [Model.ipynb](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/Model.ipynb) - A jupyter notebook to train and test the model
+* [reader.py](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/reader.py) - Classifies the emotion of the face detected in the camera

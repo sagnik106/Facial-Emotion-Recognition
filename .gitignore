@@ -1,0 +1,7 @@
+*.npy
+*.h5
+dataset
+log
+*.csv
+__pycache__
+.ipynb_checkpoints
