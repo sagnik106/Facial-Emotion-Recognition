@@ -16,9 +16,9 @@ The dataset is taken from kaggle - [FER(Facial Emotion Recognition) Challenge](h
 
 ## Model Performance: (I know this needs work so work in progress)
 Accuracy</br>
-![Neural Network Accuracy](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/resources/Accuracy.jpg)</br>
+![Neural Network Accuracy](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/resources/Accuracy.png)</br>
 Loss</br>
-![Neural Network Loss](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/resources/Loss.jpg)
+![Neural Network Loss](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/resources/Loss.png)
 
 ## File Architecture
 * [Model.ipynb](https://github.com/sagnik106/Facial-Emotion-Recognition/blob/master/Model.ipynb) - A jupyter notebook to train and test the model
